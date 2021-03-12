@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3b41f6d.chunk.css",
+    "main.js": "/static/js/main.64bdadb6.chunk.js",
+    "main.js.map": "/static/js/main.64bdadb6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58fe7d23.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58fe7d23.js.map",
+    "static/js/2.96a7c621.chunk.js": "/static/js/2.96a7c621.chunk.js",
+    "static/js/2.96a7c621.chunk.js.map": "/static/js/2.96a7c621.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c3b41f6d.chunk.css.map": "/static/css/main.c3b41f6d.chunk.css.map",
+    "static/js/2.96a7c621.chunk.js.LICENSE.txt": "/static/js/2.96a7c621.chunk.js.LICENSE.txt",
+    "static/media/EU.daf62b4c.jpg": "/static/media/EU.daf62b4c.jpg",
+    "static/media/SendFileToKindleMain.e7578d3f.png": "/static/media/SendFileToKindleMain.e7578d3f.png",
+    "static/media/chatIMG.c4b52ada.png": "/static/media/chatIMG.c4b52ada.png",
+    "static/media/imageEditorHome.cfe19f65.png": "/static/media/imageEditorHome.cfe19f65.png",
+    "static/media/pdr1.b6bce169.png": "/static/media/pdr1.b6bce169.png",
+    "static/media/printVip.d20a016c.png": "/static/media/printVip.d20a016c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58fe7d23.js",
+    "static/js/2.96a7c621.chunk.js",
+    "static/css/main.c3b41f6d.chunk.css",
+    "static/js/main.64bdadb6.chunk.js"
+  ]
+}
